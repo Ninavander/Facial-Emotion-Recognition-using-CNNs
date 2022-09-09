@@ -5,7 +5,7 @@
 ## Experimental Environment:
 ![image](https://user-images.githubusercontent.com/49049595/189252514-7ce92799-fdd1-4981-ba07-249d0da5cc62.png)
 ## Data pre-processing:
-Data Analysis
+Data Analysis\n
 Data Augmentation
 
 ## Base Models:
@@ -18,12 +18,17 @@ Data Augmentation
 ###       Bagging+Majority Voting
 
 ## Evaluation Metrics:
-              Precision
               Accuracy
               Loss
+              Precision
               Recall
+              F1 score
               Confusion Matrix
 ## Results:
+![image](https://user-images.githubusercontent.com/49049595/189252671-2846d10a-23e0-42db-9339-cb9c5e803ed8.png)
+![image](https://user-images.githubusercontent.com/49049595/189252686-817660a4-5d39-464a-972b-39107fb27dbf.png)
+
+
 
 
 
