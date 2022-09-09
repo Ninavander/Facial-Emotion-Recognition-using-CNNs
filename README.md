@@ -5,8 +5,8 @@
 ## Experimental Environment:
 ![image](https://user-images.githubusercontent.com/49049595/189252514-7ce92799-fdd1-4981-ba07-249d0da5cc62.png)
 ## Data pre-processing:
-Data Analysis\n
-Data Augmentation
+  Data Analysis
+  Data Augmentation
 
 ## Base Models:
 ###       VGGNet
