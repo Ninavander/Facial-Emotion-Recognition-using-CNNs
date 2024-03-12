@@ -1,7 +1,7 @@
 # MSc-Final-project
 ### This work is my MSc final project named 'Facial Emotion Recognition using CNNs'
 ## OverView
-### In this work, we applied 4 mainstream/good-performance in previous research CNN architecture to FER2013 dataset. After comparing the results of CNN models, we chose 3 ones with better performance to do ensemble, and got SOTA test accuracy 73.31%.
+### In this work, we applied 4 mainstream/good-performance in previous research CNN architecture to FER2013 dataset. After comparing the results of CNN models, we chose 3 ones with better performance to do ensemble, and got SOTA test accuracy 74.43%. Here we shared our codes of Model architecture. The link of dataset is https://www.kaggle.com/datasets/ninamustwin/fer2013.
 ## Experimental Environment:
 ![image](https://user-images.githubusercontent.com/49049595/189252514-7ce92799-fdd1-4981-ba07-249d0da5cc62.png)
 ## Data pre-processing:
@@ -24,9 +24,13 @@
               Recall
               F1 score
               Confusion Matrix
-## Results:
-![image](https://user-images.githubusercontent.com/49049595/189252671-2846d10a-23e0-42db-9339-cb9c5e803ed8.png)
-![image](https://user-images.githubusercontent.com/49049595/189252686-817660a4-5d39-464a-972b-39107fb27dbf.png)
+
+
+## Reference:
+[1] Y. Khaireddin and Z. F. Chen. (2021). Facial Emotion Recognition: State of the Art Performance on FER2013. DOI: https://arxiv.org/abs/2105.03588
+[2] Yuan, x., 2021. Fer2013 - facial emotion recognition (version 22). [Computer Software]. Github. URL: https://github.com/LetheSec/Fer2013-Facial-Emotion-Recognition-Pytorch.
+[3] PaperwithCode, . Papers with code: Facial expression recognition on fer2013. https://paperswithcode.com/sota/facial-expression-recognition-on-fer2013
+
 
 
 
