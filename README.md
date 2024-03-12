@@ -9,14 +9,14 @@ In this work, we applied 4 mainstream/good-performance in previous research CNN 
             Data Augmentation
 
 ## Base Models:
-###       VGGNet
-###       ResNet-18
-###       DenseNet-121
-###       SENet-18
+      VGGNet
+      ResNet-18
+      DenseNet-121
+      SENet-18
 
 ## Ensemble Model:
 
-Bagging+Majority Voting
+   Bagging+Majority Voting
 
 ## Evaluation Metrics:
               Accuracy
